@@ -1,4 +1,4 @@
-# Magically Simplified Landing Page
+# Finta Landing Page
 
 A modern, responsive landing page built with **Next.js**, **Tailwind CSS**, and **TypeScript**.  
 This project demonstrates a clean, professional UI layout with reusable components, optimized images, and interactive elements for a SaaS-style product landing page.
